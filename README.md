@@ -16,7 +16,7 @@ Initializing a `BytesIO` object in the cached function, e.g.,
 @st.cache
 def cached_request_bytes_holder_1(url):
     c = requests.get(url).content
-    return c
+    return BytesIO(c)
 ```
 
 yielded this message on-screen:
