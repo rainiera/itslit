@@ -27,24 +27,8 @@ def colored_block_write(color, caption):
     else:
         st.info(caption)
 
-# TODO figure out a higher-order way of avoiding repeats of the following blocks
-
-url_eur = 'https://s3-us-west-2.amazonaws.com/rainier.io/eur-jul-2018.png'
-url_asia = 'https://s3-us-west-2.amazonaws.com/rainier.io/asia-june-2018.png'
-url_murica = 'https://s3-us-west-2.amazonaws.com/rainier.io/usa-aug-2018.png'
-
 @st.cache
-def cached_request_bytes_holder_1(url):
-    c = requests.get(url).content
-    return c
-
-@st.cache
-def cached_request_bytes_holder_2(url):
-    c = requests.get(url).content
-    return c
-
-@st.cache
-def cached_request_bytes_holder_3(url):
+def cached_request_bytes(url):
     c = requests.get(url).content
     return c
 
@@ -55,11 +39,7 @@ def photo_with_spinner(
     loading_msg='loading 😜 why don\'t u just check ur 📱 or grab a cuppa ☕️, will ya ⏳'
 ):
     with st.spinner(loading_msg):
-        content = None
-        if url_eur == url: content = cached_request_bytes_holder_1(url)
-        if url_asia == url: content = cached_request_bytes_holder_2(url)
-        if url_murica == url: content = cached_request_bytes_holder_3(url)
-
+        content = cached_request_bytes(url)
         img = Image.open(BytesIO(content))
         st.image(img, use_column_width=True)
         colored_block_write(color, caption)
@@ -76,9 +56,9 @@ if r == 'About':
         st.warning('My favorite hike so far has been the Hardergrat')
 elif r == 'Travels':
     with st.spinner('loading the travels page'):
-        photo_with_spinner(url_eur, 'Europe July 2018', 'blue')
-        photo_with_spinner(url_asia, 'Asia June 2018', 'yellow')
-        photo_with_spinner(url_murica, 'USA as of Aug 2018', 'red')
+        photo_with_spinner('https://s3-us-west-2.amazonaws.com/rainier.io/eur-jul-2018.png', 'Europe July 2018', 'blue')
+        photo_with_spinner('https://s3-us-west-2.amazonaws.com/rainier.io/asia-june-2018.png', 'Asia June 2018', 'yellow')
+        photo_with_spinner('https://s3-us-west-2.amazonaws.com/rainier.io/usa-aug-2018.png', 'USA as of Aug 2018', 'red')
 elif r == 'What\'s next':
     with st.spinner('loading the What\'s next page'):
         st.title('helly hansen makes me hella handsome while i lend a helping hand son. because honesty and integrity are a part of their corporate policy')
