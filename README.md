@@ -21,7 +21,7 @@ def cached_request_bytes_holder_1(url):
 
 yielded this message on-screen:
 
-![Image of warning message]("./img/cached_val_mutation_warning.png")
+![Image of warning message](./img/cached_val_mutation_warning.png)
 
 Whereas
 
