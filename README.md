@@ -6,17 +6,18 @@ rainier@makinitrain$ pip install streamlit
 rainier@makinitrain$ streamlit main.py
 ```
 
-Interesting notes:
+## Interesting notes:**
 
----
+### On Caching (1)
 
 Initializing a `BytesIO` object in the cached function, e.g.,
 
 ```python
 @st.cache
-def cached_request_bytes_holder_1(url):
-    c = requests.get(url).content
-    return BytesIO(c)
+def cached_request_bytes(url):
+    content = requests.get(url).content
+    content_bytes = BytesIO(content)
+    return content_bytes
 ```
 
 yielded this message on-screen:
@@ -27,9 +28,11 @@ Whereas
 
 ```python
 @st.cache
-def cached_request_bytes_holder_1(url):
-    c = requests.get(url).content
-    return c
+def cached_request_bytes(url):
+    content = requests.get(url).content
+    return content
+
+# and later using this result, constructing `BytesIO(result)` upon each use
 ```
 
 did not.
