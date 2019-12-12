@@ -1,5 +1,6 @@
 # itslit
 
+![Image of site preview](./img/hahaH_whats_here.png)
 
 ```
 rainier@makinitrain$ pip install streamlit
