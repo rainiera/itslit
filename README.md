@@ -6,7 +6,7 @@ rainier@makinitrain$ pip install streamlit
 rainier@makinitrain$ streamlit main.py
 ```
 
-## Interesting notes:**
+## Interesting notes:
 
 ### On Caching (1)
 
