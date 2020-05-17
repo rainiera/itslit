@@ -49,7 +49,7 @@ def get_tracks(playlist_id):
 
 
 def get_track_features(track_id):
-    features_i_care_about = ['energy', 'tempo', 'valence']
+    features_i_care_about = ['energy', 'tempo', 'valence', 'danceability']
 
     request_uri = f"https://api.spotify.com/v1/audio-features/{track_id}"
     resp = requests.get(request_uri, headers=headers)

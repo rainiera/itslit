@@ -11,7 +11,8 @@
     "features": {
       "energy": 0.953,
       "tempo": 103.558,
-      "valence": 0.159
+      "valence": 0.159,
+      "danceability": 0.339
     }
   },
   {
@@ -26,7 +27,8 @@
     "features": {
       "energy": 0.955,
       "tempo": 124.999,
-      "valence": 0.451
+      "valence": 0.451,
+      "danceability": 0.682
     }
   },
   {
@@ -42,7 +44,8 @@
     "features": {
       "energy": 0.819,
       "tempo": 140.083,
-      "valence": 0.632
+      "valence": 0.632,
+      "danceability": 0.416
     }
   },
   {
@@ -66,7 +69,8 @@
     "features": {
       "energy": 0.934,
       "tempo": 100.024,
-      "valence": 0.908
+      "valence": 0.908,
+      "danceability": 0.558
     }
   },
   {
@@ -94,7 +98,8 @@
     "features": {
       "energy": 0.901,
       "tempo": 159.876,
-      "valence": 0.476
+      "valence": 0.476,
+      "danceability": 0.38
     }
   },
   {
@@ -108,7 +113,8 @@
     "features": {
       "energy": 0.678,
       "tempo": 102.045,
-      "valence": 0.687
+      "valence": 0.687,
+      "danceability": 0.737
     }
   },
   {
@@ -128,7 +134,8 @@
     "features": {
       "energy": 0.872,
       "tempo": 159.867,
-      "valence": 0.568
+      "valence": 0.568,
+      "danceability": 0.442
     }
   },
   {
@@ -146,7 +153,8 @@
     "features": {
       "energy": 0.757,
       "tempo": 109.151,
-      "valence": 0.531
+      "valence": 0.531,
+      "danceability": 0.475
     }
   },
   {
@@ -161,7 +169,8 @@
     "features": {
       "energy": 0.579,
       "tempo": 110.031,
-      "valence": 0.635
+      "valence": 0.635,
+      "danceability": 0.939
     }
   },
   {
@@ -179,7 +188,8 @@
     "features": {
       "energy": 0.921,
       "tempo": 99.465,
-      "valence": 0.285
+      "valence": 0.285,
+      "danceability": 0.26
     }
   },
   {
@@ -199,7 +209,8 @@
     "features": {
       "energy": 0.625,
       "tempo": 144.338,
-      "valence": 0.514
+      "valence": 0.514,
+      "danceability": 0.39
     }
   },
   {
@@ -213,7 +224,8 @@
     "features": {
       "energy": 0.776,
       "tempo": 112.015,
-      "valence": 0.5
+      "valence": 0.5,
+      "danceability": 0.729
     }
   },
   {
@@ -228,7 +240,8 @@
     "features": {
       "energy": 0.926,
       "tempo": 147.564,
-      "valence": 0.779
+      "valence": 0.779,
+      "danceability": 0.441
     }
   },
   {
@@ -249,7 +262,8 @@
     "features": {
       "energy": 0.938,
       "tempo": 182.836,
-      "valence": 0.944
+      "valence": 0.944,
+      "danceability": 0.358
     }
   },
   {
@@ -267,7 +281,8 @@
     "features": {
       "energy": 0.942,
       "tempo": 101.786,
-      "valence": 0.785
+      "valence": 0.785,
+      "danceability": 0.65
     }
   },
   {
@@ -292,7 +307,8 @@
     "features": {
       "energy": 0.938,
       "tempo": 92.628,
-      "valence": 0.821
+      "valence": 0.821,
+      "danceability": 0.412
     }
   },
   {
@@ -312,7 +328,8 @@
     "features": {
       "energy": 0.537,
       "tempo": 124.193,
-      "valence": 0.783
+      "valence": 0.783,
+      "danceability": 0.469
     }
   },
   {
@@ -328,7 +345,8 @@
     "features": {
       "energy": 0.552,
       "tempo": 75.881,
-      "valence": 0.0789
+      "valence": 0.0789,
+      "danceability": 0.346
     }
   },
   {
@@ -343,7 +361,8 @@
     "features": {
       "energy": 0.684,
       "tempo": 117.976,
-      "valence": 0.692
+      "valence": 0.692,
+      "danceability": 0.845
     }
   },
   {
@@ -362,7 +381,8 @@
     "features": {
       "energy": 0.888,
       "tempo": 99.608,
-      "valence": 0.661
+      "valence": 0.661,
+      "danceability": 0.798
     }
   },
   {
@@ -379,7 +399,8 @@
     "features": {
       "energy": 0.741,
       "tempo": 170.91,
-      "valence": 0.46
+      "valence": 0.46,
+      "danceability": 0.524
     }
   },
   {
@@ -404,7 +425,8 @@
     "features": {
       "energy": 0.804,
       "tempo": 173.015,
-      "valence": 0.782
+      "valence": 0.782,
+      "danceability": 0.535
     }
   },
   {
@@ -421,7 +443,8 @@
     "features": {
       "energy": 0.894,
       "tempo": 94.591,
-      "valence": 0.629
+      "valence": 0.629,
+      "danceability": 0.668
     }
   },
   {
@@ -436,7 +459,8 @@
     "features": {
       "energy": 0.673,
       "tempo": 110.962,
-      "valence": 0.786
+      "valence": 0.786,
+      "danceability": 0.787
     }
   },
   {
@@ -450,7 +474,8 @@
     "features": {
       "energy": 0.925,
       "tempo": 106.286,
-      "valence": 0.658
+      "valence": 0.658,
+      "danceability": 0.651
     }
   },
   {
@@ -464,7 +489,8 @@
     "features": {
       "energy": 0.931,
       "tempo": 113.249,
-      "valence": 0.844
+      "valence": 0.844,
+      "danceability": 0.629
     }
   },
   {
@@ -487,7 +513,8 @@
     "features": {
       "energy": 0.811,
       "tempo": 120.477,
-      "valence": 0.58
+      "valence": 0.58,
+      "danceability": 0.542
     }
   },
   {
@@ -506,7 +533,8 @@
     "features": {
       "energy": 0.737,
       "tempo": 91.507,
-      "valence": 0.592
+      "valence": 0.592,
+      "danceability": 0.628
     }
   },
   {
@@ -534,7 +562,8 @@
     "features": {
       "energy": 0.974,
       "tempo": 149.936,
-      "valence": 0.199
+      "valence": 0.199,
+      "danceability": 0.416
     }
   },
   {
@@ -555,7 +584,8 @@
     "features": {
       "energy": 0.834,
       "tempo": 118.223,
-      "valence": 0.338
+      "valence": 0.338,
+      "danceability": 0.249
     }
   }
 ]
