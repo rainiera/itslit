@@ -1,0 +1,561 @@
+[
+  {
+    "id": "2EoLyegTMspiWsV4mu6iXD",
+    "artist": "Sofi Tukker",
+    "title": "Swing - Vini Vici & WHITENO1SE Remix",
+    "durationMs": 224347,
+    "genres": [
+      "electropop",
+      "pop"
+    ],
+    "features": {
+      "energy": 0.953,
+      "tempo": 103.558,
+      "valence": 0.159
+    }
+  },
+  {
+    "id": "2njUxZ4151DWIrfIK3loFj",
+    "artist": "Billie Eilish",
+    "title": "COPYCAT - Sofi Tukker Remix",
+    "durationMs": 198684,
+    "genres": [
+      "electropop",
+      "pop"
+    ],
+    "features": {
+      "energy": 0.955,
+      "tempo": 124.999,
+      "valence": 0.451
+    }
+  },
+  {
+    "id": "57ZXcBtCZXSg9TVV5xRdnR",
+    "artist": "U2",
+    "title": "Vertigo",
+    "durationMs": 194520,
+    "genres": [
+      "irish rock",
+      "permanent wave",
+      "rock"
+    ],
+    "features": {
+      "energy": 0.819,
+      "tempo": 140.083,
+      "valence": 0.632
+    }
+  },
+  {
+    "id": "4gmHE2u2KxYZ5ZIHIiLcOD",
+    "artist": "Belle & Sebastian",
+    "title": "Sukie In The Graveyard",
+    "durationMs": 180226,
+    "genres": [
+      "alternative rock",
+      "anti-folk",
+      "baroque pop",
+      "chamber pop",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "melancholia",
+      "scottish indie",
+      "scottish rock",
+      "twee pop"
+    ],
+    "features": {
+      "energy": 0.934,
+      "tempo": 100.024,
+      "valence": 0.908
+    }
+  },
+  {
+    "id": "5kQmMdo4aHzdzPKZxl7Wf1",
+    "artist": "Sleigh Bells",
+    "title": "Comeback Kid",
+    "durationMs": 180493,
+    "genres": [
+      "alternative dance",
+      "art pop",
+      "brooklyn indie",
+      "dance-punk",
+      "electropop",
+      "escape room",
+      "experimental pop",
+      "indie pop",
+      "indie rock",
+      "indie surf",
+      "indietronica",
+      "modern rock",
+      "new rave",
+      "noise pop",
+      "shimmer pop"
+    ],
+    "features": {
+      "energy": 0.901,
+      "tempo": 159.876,
+      "valence": 0.476
+    }
+  },
+  {
+    "id": "7MXMcK1xAEYzkfjKKwh6ry",
+    "artist": "Cannons",
+    "title": "Fire for You",
+    "durationMs": 231825,
+    "genres": [
+      "vapor soul"
+    ],
+    "features": {
+      "energy": 0.678,
+      "tempo": 102.045,
+      "valence": 0.687
+    }
+  },
+  {
+    "id": "0Hrd6CSafHHqKptyFppmqH",
+    "artist": "Two Door Cinema Club",
+    "title": "Undercover Martyn",
+    "durationMs": 167773,
+    "genres": [
+      "indie pop",
+      "indietronica",
+      "irish rock",
+      "modern alternative rock",
+      "modern rock",
+      "northern irish indie",
+      "rock"
+    ],
+    "features": {
+      "energy": 0.872,
+      "tempo": 159.867,
+      "valence": 0.568
+    }
+  },
+  {
+    "id": "5ZZBMdy432dJFcg7PGvPBI",
+    "artist": "The Rolling Stones",
+    "title": "She's A Rainbow",
+    "durationMs": 252333,
+    "genres": [
+      "album rock",
+      "british invasion",
+      "classic rock",
+      "protopunk",
+      "rock"
+    ],
+    "features": {
+      "energy": 0.757,
+      "tempo": 109.151,
+      "valence": 0.531
+    }
+  },
+  {
+    "id": "00kYtO6UJq0q9aJ1n3iY1c",
+    "artist": "Joey Purp",
+    "title": "Girls @ (feat. Chance the Rapper)",
+    "durationMs": 212773,
+    "genres": [
+      "chicago rap",
+      "underground hip hop"
+    ],
+    "features": {
+      "energy": 0.579,
+      "tempo": 110.031,
+      "valence": 0.635
+    }
+  },
+  {
+    "id": "4HlIthZsr8bsWll2z0Z7xt",
+    "artist": "Funkadelic",
+    "title": "Super Stupid",
+    "durationMs": 241293,
+    "genres": [
+      "funk",
+      "funk rock",
+      "p funk",
+      "psychedelic rock",
+      "soul"
+    ],
+    "features": {
+      "energy": 0.921,
+      "tempo": 99.465,
+      "valence": 0.285
+    }
+  },
+  {
+    "id": "3v9xlH6BpmRbqL7hgNJhfT",
+    "artist": "The Beach Boys",
+    "title": "I Get Around (Mono)",
+    "durationMs": 134386,
+    "genres": [
+      "baroque pop",
+      "brill building pop",
+      "classic rock",
+      "folk rock",
+      "psychedelic rock",
+      "rock",
+      "sunshine pop"
+    ],
+    "features": {
+      "energy": 0.625,
+      "tempo": 144.338,
+      "valence": 0.514
+    }
+  },
+  {
+    "id": "5rJ4Actcle0BKg7CUmGqoy",
+    "artist": "The Phenomenal Handclap Band",
+    "title": "Judge Not - Ray Mang Radio Edit",
+    "durationMs": 214287,
+    "genres": [
+      "nu disco"
+    ],
+    "features": {
+      "energy": 0.776,
+      "tempo": 112.015,
+      "valence": 0.5
+    }
+  },
+  {
+    "id": "0RzhMHIsFMbOGh0oWDvNNK",
+    "artist": "ABBA",
+    "title": "Waterloo",
+    "durationMs": 168826,
+    "genres": [
+      "europop",
+      "swedish pop"
+    ],
+    "features": {
+      "energy": 0.926,
+      "tempo": 147.564,
+      "valence": 0.779
+    }
+  },
+  {
+    "id": "3gxEZXUjrNbl3TlSrTGbR5",
+    "artist": "David Bowie",
+    "title": "Modern Love - 2018 Remaster",
+    "durationMs": 288339,
+    "genres": [
+      "album rock",
+      "art rock",
+      "classic rock",
+      "dance rock",
+      "glam rock",
+      "permanent wave",
+      "protopunk",
+      "rock"
+    ],
+    "features": {
+      "energy": 0.938,
+      "tempo": 182.836,
+      "valence": 0.944
+    }
+  },
+  {
+    "id": "2WGGxhsc2WtPNkhsXWVcYb",
+    "artist": "Beastie Boys",
+    "title": "Body Movin' - Fatboy Slim Remix/2005 Remaster",
+    "durationMs": 248506,
+    "genres": [
+      "alternative rock",
+      "east coast hip hop",
+      "hip hop",
+      "old school hip hop",
+      "rap"
+    ],
+    "features": {
+      "energy": 0.942,
+      "tempo": 101.786,
+      "valence": 0.785
+    }
+  },
+  {
+    "id": "0QAEc5JBdaZMdxqU3xL64H",
+    "artist": "Parquet Courts",
+    "title": "Almost Had to Start a Fight/In and Out of Patience",
+    "durationMs": 194693,
+    "genres": [
+      "alternative rock",
+      "brooklyn indie",
+      "denton tx indie",
+      "freak folk",
+      "garage psych",
+      "garage rock",
+      "indie pop",
+      "indie rock",
+      "modern rock",
+      "neo-psychedelic",
+      "new rave",
+      "noise pop"
+    ],
+    "features": {
+      "energy": 0.938,
+      "tempo": 92.628,
+      "valence": 0.821
+    }
+  },
+  {
+    "id": "0vFOzaXqZHahrZp6enQwQb",
+    "artist": "Pink Floyd",
+    "title": "Money",
+    "durationMs": 382834,
+    "genres": [
+      "album rock",
+      "art rock",
+      "classic rock",
+      "progressive rock",
+      "psychedelic rock",
+      "rock",
+      "symphonic rock"
+    ],
+    "features": {
+      "energy": 0.537,
+      "tempo": 124.193,
+      "valence": 0.783
+    }
+  },
+  {
+    "id": "6VObnIkLVruX4UVyxWhlqm",
+    "artist": "Adele",
+    "title": "Skyfall",
+    "durationMs": 286480,
+    "genres": [
+      "british soul",
+      "pop",
+      "uk pop"
+    ],
+    "features": {
+      "energy": 0.552,
+      "tempo": 75.881,
+      "valence": 0.0789
+    }
+  },
+  {
+    "id": "3iGNoYKIabGohB9A0C7dKU",
+    "artist": "Duckwrth",
+    "title": "MICHUUL.",
+    "durationMs": 186200,
+    "genres": [
+      "escape room",
+      "underground hip hop"
+    ],
+    "features": {
+      "energy": 0.684,
+      "tempo": 117.976,
+      "valence": 0.692
+    }
+  },
+  {
+    "id": "2ECYtCiyC3zLvFTybWv75p",
+    "artist": "Del The Funky Homosapien",
+    "title": "Mistadobalina",
+    "durationMs": 253626,
+    "genres": [
+      "alternative hip hop",
+      "gangster rap",
+      "hardcore hip hop",
+      "hip hop",
+      "rap",
+      "turntablism"
+    ],
+    "features": {
+      "energy": 0.888,
+      "tempo": 99.608,
+      "valence": 0.661
+    }
+  },
+  {
+    "id": "2rCbetJ13jCpy9PLJRjun4",
+    "artist": "Big Boi",
+    "title": "Shine Blockas",
+    "durationMs": 225640,
+    "genres": [
+      "atl hip hop",
+      "dirty south rap",
+      "hip hop",
+      "southern hip hop"
+    ],
+    "features": {
+      "energy": 0.741,
+      "tempo": 170.91,
+      "valence": 0.46
+    }
+  },
+  {
+    "id": "5w7JdwvQNXzjYERUnOQZU0",
+    "artist": "Ra Ra Riot",
+    "title": "Binary Mind",
+    "durationMs": 193346,
+    "genres": [
+      "alternative dance",
+      "baroque pop",
+      "chamber pop",
+      "electropop",
+      "indie pop",
+      "indie poptimism",
+      "indie rock",
+      "indietronica",
+      "modern rock",
+      "piano rock",
+      "shimmer pop",
+      "stomp and holler"
+    ],
+    "features": {
+      "energy": 0.804,
+      "tempo": 173.015,
+      "valence": 0.782
+    }
+  },
+  {
+    "id": "13LItlRXKAal3gCwIVpmD1",
+    "artist": "Big Boi",
+    "title": "Daddy Fat Sax",
+    "durationMs": 156506,
+    "genres": [
+      "atl hip hop",
+      "dirty south rap",
+      "hip hop",
+      "southern hip hop"
+    ],
+    "features": {
+      "energy": 0.894,
+      "tempo": 94.591,
+      "valence": 0.629
+    }
+  },
+  {
+    "id": "3Dv1eDb0MEgF93GpLXlucZ",
+    "artist": "Doja Cat",
+    "title": "Say So",
+    "durationMs": 237893,
+    "genres": [
+      "la indie",
+      "pop"
+    ],
+    "features": {
+      "energy": 0.673,
+      "tempo": 110.962,
+      "valence": 0.786
+    }
+  },
+  {
+    "id": "09jscLcwa4usINbtfzo5FL",
+    "artist": "Jamiroquai",
+    "title": "When You Gonna Learn? - Remastered",
+    "durationMs": 230053,
+    "genres": [
+      "dance pop"
+    ],
+    "features": {
+      "energy": 0.925,
+      "tempo": 106.286,
+      "valence": 0.658
+    }
+  },
+  {
+    "id": "45vbV4YznRHi1uKS9l0xkI",
+    "artist": "Jamiroquai",
+    "title": "High Times - Remastered",
+    "durationMs": 360013,
+    "genres": [
+      "dance pop"
+    ],
+    "features": {
+      "energy": 0.931,
+      "tempo": 113.249,
+      "valence": 0.844
+    }
+  },
+  {
+    "id": "6BwR8E925bOoGHFPS5tEOE",
+    "artist": "Local Natives",
+    "title": "Megaton Mile",
+    "durationMs": 266533,
+    "genres": [
+      "chamber pop",
+      "electropop",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "la indie",
+      "modern rock",
+      "rock",
+      "shimmer pop",
+      "stomp and holler"
+    ],
+    "features": {
+      "energy": 0.811,
+      "tempo": 120.477,
+      "valence": 0.58
+    }
+  },
+  {
+    "id": "1cOyWWUr3oXJIxY0AjJEx9",
+    "artist": "Troye Sivan",
+    "title": "YOUTH",
+    "durationMs": 185194,
+    "genres": [
+      "australian pop",
+      "dance pop",
+      "electropop",
+      "pop",
+      "post-teen pop",
+      "viral pop"
+    ],
+    "features": {
+      "energy": 0.737,
+      "tempo": 91.507,
+      "valence": 0.592
+    }
+  },
+  {
+    "id": "0n840cU65JTnindmfSIsv3",
+    "artist": "Sleigh Bells",
+    "title": "Demons",
+    "durationMs": 183480,
+    "genres": [
+      "alternative dance",
+      "art pop",
+      "brooklyn indie",
+      "dance-punk",
+      "electropop",
+      "escape room",
+      "experimental pop",
+      "indie pop",
+      "indie rock",
+      "indie surf",
+      "indietronica",
+      "modern rock",
+      "new rave",
+      "noise pop",
+      "shimmer pop"
+    ],
+    "features": {
+      "energy": 0.974,
+      "tempo": 149.936,
+      "valence": 0.199
+    }
+  },
+  {
+    "id": "5EWPGh7jbTNO2wakv8LjUI",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Free Bird",
+    "durationMs": 547106,
+    "genres": [
+      "album rock",
+      "blues rock",
+      "classic rock",
+      "country rock",
+      "hard rock",
+      "mellow gold",
+      "rock",
+      "southern rock"
+    ],
+    "features": {
+      "energy": 0.834,
+      "tempo": 118.223,
+      "valence": 0.338
+    }
+  }
+]
